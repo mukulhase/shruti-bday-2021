@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/shruti-bday-2021/static/css/main.08a801ab.chunk.css",
-    "main.js": "/shruti-bday-2021/static/js/main.c2f68350.chunk.js",
-    "main.js.map": "/shruti-bday-2021/static/js/main.c2f68350.chunk.js.map",
+    "main.css": "/shruti-bday-2021/static/css/main.ac500446.chunk.css",
+    "main.js": "/shruti-bday-2021/static/js/main.a19188e2.chunk.js",
+    "main.js.map": "/shruti-bday-2021/static/js/main.a19188e2.chunk.js.map",
     "runtime-main.js": "/shruti-bday-2021/static/js/runtime-main.dd7c22c8.js",
     "runtime-main.js.map": "/shruti-bday-2021/static/js/runtime-main.dd7c22c8.js.map",
     "static/js/2.15f5ce2c.chunk.js": "/shruti-bday-2021/static/js/2.15f5ce2c.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.20df9ed4.chunk.js": "/shruti-bday-2021/static/js/3.20df9ed4.chunk.js",
     "static/js/3.20df9ed4.chunk.js.map": "/shruti-bday-2021/static/js/3.20df9ed4.chunk.js.map",
     "index.html": "/shruti-bday-2021/index.html",
-    "static/css/main.08a801ab.chunk.css.map": "/shruti-bday-2021/static/css/main.08a801ab.chunk.css.map",
+    "static/css/main.ac500446.chunk.css.map": "/shruti-bday-2021/static/css/main.ac500446.chunk.css.map",
     "static/js/2.15f5ce2c.chunk.js.LICENSE.txt": "/shruti-bday-2021/static/js/2.15f5ce2c.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/shruti-bday-2021/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.dd7c22c8.js",
     "static/js/2.15f5ce2c.chunk.js",
-    "static/css/main.08a801ab.chunk.css",
-    "static/js/main.c2f68350.chunk.js"
+    "static/css/main.ac500446.chunk.css",
+    "static/js/main.a19188e2.chunk.js"
   ]
 }
