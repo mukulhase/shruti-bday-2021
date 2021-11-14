@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shruti-bday-2021/static/css/main.08a801ab.chunk.css",
-    "main.js": "/shruti-bday-2021/static/js/main.0bfc4529.chunk.js",
-    "main.js.map": "/shruti-bday-2021/static/js/main.0bfc4529.chunk.js.map",
+    "main.js": "/shruti-bday-2021/static/js/main.c2f68350.chunk.js",
+    "main.js.map": "/shruti-bday-2021/static/js/main.c2f68350.chunk.js.map",
     "runtime-main.js": "/shruti-bday-2021/static/js/runtime-main.dd7c22c8.js",
     "runtime-main.js.map": "/shruti-bday-2021/static/js/runtime-main.dd7c22c8.js.map",
     "static/js/2.15f5ce2c.chunk.js": "/shruti-bday-2021/static/js/2.15f5ce2c.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.dd7c22c8.js",
     "static/js/2.15f5ce2c.chunk.js",
     "static/css/main.08a801ab.chunk.css",
-    "static/js/main.0bfc4529.chunk.js"
+    "static/js/main.c2f68350.chunk.js"
   ]
 }
