@@ -11,3 +11,46 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+body {
+  padding: 10px;
+}
+
+.svg-container-container {
+  border-radius: 10px;
+  border: 10px transparent;
+  animation: fadeIn 5s;
+}
+
+.svg-container {
+  /* margin: 5px;
+  border: 10px solid;
+  border-image: linear-gradient(to left, #40e0d0, #ff8c00, #ff0080) 1; */
+
+  /* Without this the border will not show */
+  /* border-style: solid;
+  border-width: 20px;
+  border-color: #964B00; */
+  border: double 4px transparent;
+  border-radius: 10px;
+  background-image: linear-gradient(#edd0ca, #edd0ca), radial-gradient(circle at top left, #f00,#3020ff);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+  margin-bottom: 10px;
+}
+
+svg {
+  box-sizing: border-box;
+  margin: 5px 5px 0px 5px;
+}
+
+.container {
+  background-color: rgba(255, 255, 255, .15);
+  border-radius: 5px;
+  padding: 10px;
+  backdrop-filter: blur(5px);}
+@keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
